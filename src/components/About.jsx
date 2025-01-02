@@ -17,7 +17,7 @@ const About = () => (
       </p>
       <div className="flex justify-center gap-6 mt-8">
         <a
-          href="https://www.linkedin.com/in/nijar"
+          href="https://www.linkedin.com/in/m-nijar-fadly-37453a329/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xl bg-white text-blue-900 py-2 px-6 rounded-full shadow-lg hover:bg-blue-900 hover:text-white transition duration-300"
@@ -25,7 +25,7 @@ const About = () => (
           LinkedIn
         </a>
         <a
-          href="https://github.com/nijar"
+          href="https://github.com/Nizarubae"
           target="_blank"
           rel="noopener noreferrer"
           className="text-xl bg-white text-blue-900 py-2 px-6 rounded-full shadow-lg hover:bg-blue-900 hover:text-white transition duration-300"
