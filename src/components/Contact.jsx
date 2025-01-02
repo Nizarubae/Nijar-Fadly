@@ -7,7 +7,7 @@ const Contact = () => (
       <div className="flex justify-center space-x-8">
         {/* WhatsApp */}
         <a
-          href="https://wa.me/yourphonenumber" // Replace with your WhatsApp link
+          href="https://wa.me/6281365811338" // Replace with your WhatsApp link
           target="_blank"
           rel="noopener noreferrer"
           className="text-5xl hover:opacity-80 transition duration-300 transform hover:scale-110"
@@ -21,7 +21,7 @@ const Contact = () => (
 
         {/* Instagram */}
         <a
-          href="https://www.instagram.com/yourusername" // Replace with your Instagram link
+          href="https://www.instagram.com/xjay.jar" // Replace with your Instagram link
           target="_blank"
           rel="noopener noreferrer"
           className="text-5xl hover:opacity-80 transition duration-300 transform hover:scale-110"
@@ -35,7 +35,7 @@ const Contact = () => (
 
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/yourusername" // Replace with your LinkedIn link
+          href="https://www.linkedin.com/in/m-nijar-fadly-37453a329/" // Replace with your LinkedIn link
           target="_blank"
           rel="noopener noreferrer"
           className="text-5xl hover:opacity-80 transition duration-300 transform hover:scale-110"
